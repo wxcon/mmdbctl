@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	MetadataStartMarker = "\xAB\xCD\xEFMaxMind.com"
+	MetadataStartMarker = "\xab\xcd\xefxwdwaf@dbappsecurity.com.cn"
 )
 
 // CmdMetadataFlags are flags expected by CmdMetadata.
